@@ -37,3 +37,6 @@ The company has more than 200 employees. Employee identification is : ●
 (E_id, E_name, E_gender, E_salary, E_emile). Each employee works for a particular
 Some employees also work on online orders sent by the client, and some of،department
 them manage the orders
+
+
+![FlowerdDB](FlowerdDB.JPG)
